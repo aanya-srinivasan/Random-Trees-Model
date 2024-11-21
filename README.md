@@ -1,4 +1,5 @@
 🌿 Air Quality Prediction Using Random Forest 🌿
+
 This project aims to predict NO2 (Nitrogen Dioxide) concentrations in the air using various environmental features like temperature, wind speed, pressure, and geographical factors. A Random Forest model is applied in R to build the predictive model. 🌬️💨
 
 📊 Dataset Overview
